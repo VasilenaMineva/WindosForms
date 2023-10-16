@@ -1,0 +1,11 @@
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\bin\Debug\chisla.exe.config
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\bin\Debug\chisla.exe
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\bin\Debug\chisla.pdb
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.Form1.resources
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.Properties.Resources.resources
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.exe
+C:\Users\STUDENTS-1409-4\Desktop\12a\chisla\obj\Debug\chisla.pdb
